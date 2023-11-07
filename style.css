@@ -12,7 +12,7 @@ body {
 }
 .weather-day {
   display: flex;
-  box-shadow: rgb(226, 237, 72) 0px 20px 30px -10px;
+  box-shadow: rgb(116, 72, 237) 0px 20px 30px -10px;
   background: rgba(116, 116, 116, 0.6);
   /* background: rgb(247, 246, 245); */
   /* background: linear-gradient(
