@@ -57,6 +57,6 @@ body {
 }
 .weather-day:hover {
   transform: translateY(-10px) scale(1.4);
-  background-color: rgb(86, 0, 105);
+  background-color: rgb(231, 223, 232);
   color: rgb(116, 228, 12);
 }
